@@ -23,10 +23,6 @@ The ancient manuscript that might, just might, clarify the genesis of this proje
 3. Text files
 corpus.txt: The revered corpus of our journey.
 dictionary.txt: A cryptanalyst's trusty sidekick.
-🏃‍♂️ Steps to Unravel the Enigma:
-Clone this repository: git clone [your-repo-link-here]
-Embark with Oblig0.hs for an entrancing introduction.
-Employ GHC to compile and run any of the Haskell files.
-Ponder, tinker, and perhaps reach an epiphany or two.
+
 ⚠️ A Gentle Reminder:
 Not all functions operate flawlessly—consider them a "best attempt." If you find yourself as puzzled (or more) than I am, then you're on the right track. Join in on the Haskell escapade, and may your journey be as enlightening as it is confusing! 🌌🔍
